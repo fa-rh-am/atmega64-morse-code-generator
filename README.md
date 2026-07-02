@@ -64,6 +64,7 @@ The system receives predefined user-selected characters and continuously display
 
 ![Wave](screenshots/wave_output.png)
 
+---
 
 ## Timing Modes
 
