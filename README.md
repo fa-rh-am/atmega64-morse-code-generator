@@ -64,23 +64,16 @@ The system receives predefined user-selected characters and continuously display
 
 ![Wave](screenshots/wave_output.png)
 
----
-
-## LED Demonstration
-
-![LED](screenshots/led_demo.png)
-
----
 
 ## Timing Modes
 
 ### Slow Mode
 
-![Slow](screenshots/speed_mode1.png)
+![Slow](screenshots/speed_mode10.png)
 
 ### Fast Mode
 
-![Fast](screenshots/speed_mode2.png)
+![Fast](screenshots/speed_mode1.png)
 
 ---
 
